@@ -1,4 +1,3 @@
-# Data-Science-Portfolio
+# Data Science Portfolio
 Data Science Portfolio
-
-Author :Sundara Rajan
+Author : Sundara Rajan V S
